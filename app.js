@@ -379,9 +379,5 @@ const app = {
 }
 
 window.addEventListener('DOMContentLoaded', (e) => {
-    window.addEventListener('resize', () => { 
-        location.reload();
-    });
-
     app.start();
 });
