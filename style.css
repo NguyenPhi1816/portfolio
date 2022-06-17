@@ -822,6 +822,10 @@ body {
         height: auto;
         left: 0;
     }
+
+    .portfolio-header {
+        font-size: 18px;
+    }
 }
 
 /* End of Portfolio */
