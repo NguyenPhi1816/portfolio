@@ -379,5 +379,5 @@ const app = {
 }
 
 window.addEventListener('DOMContentLoaded', (e) => {
-    app.start();
+    app.start(); 
 });
