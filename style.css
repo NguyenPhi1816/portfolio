@@ -826,6 +826,10 @@ body {
     .portfolio-header {
         font-size: 18px;
     }
+
+    .slider-btn {
+        font-size: 25px;
+    }
 }
 
 /* End of Portfolio */
@@ -1107,6 +1111,7 @@ input:-webkit-autofill {
         width: 100%;
         margin: 0;
         margin-bottom: 10px;
+        font-size: 11px;
     }
 
     .contact-social-network {
